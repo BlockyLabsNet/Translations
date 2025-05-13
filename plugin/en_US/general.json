@@ -96,5 +96,18 @@
     "messages.confirm_gui.confirm": "<color:#1fff39>Confirm</color>",
     "messages.confirm_gui.confirm_lore": "<color:#dfe6e9>Please confirm your action.</color>",
     "messages.confirm_gui.cancel": "<color:#ED254E>Cancel</color>",
-    "messages.confirm_gui.cancel_lore": "<color:#dfe6e9>If you wish to cancel, click here.</color>"
+    "messages.confirm_gui.cancel_lore": "<color:#dfe6e9>If you wish to cancel, click here.</color>",
+    
+    "user.preferences.hymn": "Current Hymn Preference",
+    "user.preferences.hymn.description": "<color:#dfe6e9>Select your preferred hymn from the options below.</color>",
+    "user.preferences.hymn.current": "Current Hymn: <color:#FFD700>%value%</color>",
+    "user.preferences.playMusic": "Play Music",
+    "user.preferences.playMusic.description": "<color:#dfe6e9>Toggle to play background music during your experience.</color>",
+    "user.preferences.playMusic.current": "Music currently: <color:#FFD700>%value%</color>",
+    "arcade.buyHymn": "Buy Hymn for <color:#FFD700>%price%</color> gems.",
+    "arcade.playHymn": "Playing your selected hymn now...",
+    "arcade.notEnoughGems": "You need <color:#FFD700>%gems%</color> gems to buy <color:#FFD700>%hymn%</color>!",
+    "arcade.hymn.purchased": "You have purchased the hymn: <color:#FFD700>%hymn%</color>.",
+    "user.preferences.hymn.current.repeat": "Current Hymn: <color:#FFD700>%value%</color>",
+    "user.preferences.playMusic.toggled": "Music notifications are now <color:#FFD700>%enabled%</color>."
 }
